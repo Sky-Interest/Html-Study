@@ -1,0 +1,17 @@
+a{
+    color: #ff7300;
+    font-family: "宋体";
+    font-weight: bold;
+    font-size: 14px;
+    
+    text-emphasis: none;
+}
+div{
+    background-color: #cccccc;
+    width: 200px;
+}
+b{
+    font-size: 12px;
+    color: #636362
+    ;
+}
